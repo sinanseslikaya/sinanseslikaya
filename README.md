@@ -4,3 +4,5 @@ I am a second-year student at the University of Virginia studying for my Bachelo
 I am looking forward to expanding my network and becoming a full-stack developer. 
 
 Heres my [LinkedIn](https://www.linkedin.com/in/sinanseslikaya/)
+
+Languages profficient in: Java, Python, JS, C++, Lean
