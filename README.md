@@ -5,4 +5,4 @@ I am looking forward to expanding my network and becoming a full-stack developer
 
 Heres my [LinkedIn](https://www.linkedin.com/in/sinanseslikaya/)
 
-Languages profficient in: Java, Python, JS, C++, Lean
+Languages profficient in: Python, C++, Java, Javascript, bash, lean
